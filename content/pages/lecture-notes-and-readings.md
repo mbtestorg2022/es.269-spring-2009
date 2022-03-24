@@ -98,7 +98,7 @@ Foucault, Michel. _The History of Sexuality, Volume 1: An Introduction_. New Yor
 
 Hackney, James R., Jr. "[Review: Derrick Bell's Re-Sounding: W.E.B. DuBois, Modernism, and Critical Race Scholarship](http://www.jstor.org/pss/828765)." _Law and Social Inquiry_ 23, no. 1 (1998): 141-164.
 
-Butler, Judith. "Peformative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory." (1988). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://seas3.elte.hu/coursematerial/TimarAndrea/17a.Butler,performative%5B1%5D.pdf))
+Butler, Judith. "Peformative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory." (1988). ([PDF](http://seas3.elte.hu/coursematerial/TimarAndrea/17a.Butler,performative%5B1%5D.pdf))
 
 
 {{< tdclose >}}
